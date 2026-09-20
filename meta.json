@@ -2,6 +2,7 @@
   "version": "0.0.0",
   "repository": "https://github.com/djalbat/continuity",
   "dependencies": {
-    "functions": "0.0"
+    "topology": "1.0",
+    "functions": "2.0"
   }
 }

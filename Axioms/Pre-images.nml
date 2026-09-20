@@ -1,0 +1,6 @@
+Variable f:𝖥𝗎𝗇𝖼𝗍𝗂𝗈𝗇 provisionally
+
+Variable 𝒪:𝖮𝗉𝖾𝗇𝖢𝗈𝗅𝗅𝖾𝖼𝗍𝗂𝗈𝗇
+
+Axiom [f] (OpenPreimage)
+  f⁻¹(𝒪):𝖮𝗉𝖾𝗇𝖢𝗈𝗅𝗅𝖾𝖼𝗍𝗂𝗈𝗇

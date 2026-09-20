@@ -1,0 +1,9 @@
+Variable 𝒪:𝖮𝗉𝖾𝗇𝖢𝗈𝗅𝗅𝖾𝖼𝗍𝗂𝗈𝗇
+
+Lemma (EmptyFunctionOpenPreimage)
+  𝘦⁻¹(𝒪):𝖮𝗉𝖾𝗇𝖢𝗈𝗅𝗅𝖾𝖼𝗍𝗂𝗈𝗇
+  Proof
+    ∅:𝖮𝗉𝖾𝗇𝖢𝗈𝗅𝗅𝖾𝖼𝗍𝗂𝗈𝗇
+    𝘦⁻¹(𝒪) = ∅ by EmptyFunction
+  Therefore
+    𝘦⁻¹(𝒪):𝖮𝗉𝖾𝗇𝖢𝗈𝗅𝗅𝖾𝖼𝗍𝗂𝗈𝗇

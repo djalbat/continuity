@@ -1,0 +1,7 @@
+Variable f:𝖥𝗎𝗇𝖼𝗍𝗂𝗈𝗇 provisionally
+
+Axiom (ContinuousFunctions)
+  Suppose
+    [f] satisfies OpenPreimage
+  Then
+    f:𝖢𝗈𝗇𝗍𝗂𝗇𝗎𝗈𝗎𝗌𝖥𝗎𝗇𝖼𝗍𝗂𝗈𝗇
